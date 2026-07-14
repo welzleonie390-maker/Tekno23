@@ -1,0 +1,9 @@
+{
+  "version": "1.0",
+  "name": "Tekno23 Ultimate",
+  "database": "data/database.db",
+  "samples": "samples",
+  "exports": "exports",
+  "logs": "logs",
+  "downloads": "downloads"
+}
