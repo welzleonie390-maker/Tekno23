@@ -1,0 +1,40 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Virtual Environments
+venv/
+.venv/
+
+# Logs
+logs/
+*.log
+
+# Datenbank
+*.db
+*.sqlite
+
+# Cache
+cache/
+*.cache
+
+# Exporte
+exports/
+
+# Downloads
+downloads/
+
+# Backups
+backup/
+
+# Samples (optional)
+samples/
+
+# IDE
+.vscode/
+.idea/
+
+# Termux
+.termux/
